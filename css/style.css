@@ -224,3 +224,29 @@ nav ul li a {
   font-size: 16px;
   color: #b3b3b3;
 }
+
+/* Ready to focus better sectionn style */
+.ready-to-better-content {
+  text-align: center;
+  padding: 71px 150px;
+  border-radius: 14px;
+  background: #fff;
+}
+
+.ready-title {
+  color: #000;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.ready-sub-title {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  line-height: 140%;
+  margin: 20px 0;
+}
+
+.ready-to-better-img {
+  margin-top: 22px;
+  border-radius: 50px;
+}
